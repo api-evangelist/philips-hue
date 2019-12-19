@@ -1,0 +1,44 @@
+{
+    "name": "Philips hue",
+    "description": "Your personal wireless lighting that lets you easily control your light from your device and create the right ambience for your every moments. Meet hue - smart bulbs.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1608-philips-hue.jpg",
+    "tags": [
+        "have api",
+        "lighting"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/philips-hue\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Philips hue",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1608-philips-hue.jpg",
+            "humanURL": "http:\/\/developers.meethue.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/philips-hue-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/PhilipsHue"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/tweethue"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/developers.meethue.com\/"
+        }
+    ]
+}
